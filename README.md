@@ -1,4 +1,6 @@
-# node-js-getting-started
+# simpleNxH
+
+Um exemplo simples de Deploy de aplicação NodeJS no Heroku, seguindo orientações do manual de inicialização (node-js-getting-started)
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
